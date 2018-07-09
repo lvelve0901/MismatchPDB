@@ -1,0 +1,135 @@
+HEADER    DNA                                     20-AUG-03   XXXX              
+TITLE     MOLECULAR STRUCTURE OF TWO CRYSTAL FORMS OF CYCLIC TRIADENYLIC ACID AT
+TITLE    2 1 ANGSTROM RESOLUTION                                                
+COMPND    5'-CD(*AP*AP*AP)-3'                                                   
+KEYWDS    CYCLIC TRINUCLEOTIDE, DNA                                             
+EXPDTA    X-RAY DIFFRACTION                                                     
+AUTHOR    Y.G.GAO, H.ROBINSON, Y.GUAN, Y.C.LIAW, J.H.VAN BOOM, G.A.VAN DER      
+AUTHOR   2 MAREL, A.H.WANG                                                      
+JRNL        AUTH   Y.G.GAO, H.ROBINSON, Y.GUAN, Y.C.LIAW, J.H.VAN BOOM,         
+JRNL        AUTH 2 G.A.VAN DER MAREL, A.H.WANG                                  
+JRNL        TITL   MOLECULAR STRUCTURE OF TWO CRYSTAL FORMS OF CYCLIC           
+JRNL        TITL 2 TRIADENYLIC ACID AT 1A RESOLUTION.                           
+JRNL        REF    J.BIOMOL.STRUCT.DYN.          V.  16    69 1998              
+JRNL        REFN   ASTM JBSDD6  US ISSN 0739-1102                               
+JRNL        PMID   9745896                                                      
+SEQRES   1 A    3   DA  DA  DA                                                  
+SEQRES   1 B    3   DA  DA  DA                                                  
+FORMUL   3  HOH   *13(H2 O)                                                     
+CRYST1   23.328   23.328    9.680  90.00  90.00 120.00 P 3           6          
+ORIGX1      1.000000  0.000000  0.000000        0.00000                         
+ORIGX2      0.000000  1.000000  0.000000        0.00000                         
+ORIGX3      0.000000  0.000000  1.000000        0.00000                         
+SCALE1      0.042867  0.024749  0.000000        0.00000                         
+SCALE2      0.000000  0.049498  0.000000        0.00000                         
+SCALE3      0.000000  0.000000  0.103306        0.00000                         
+MODEL        1                                                                  
+ATOM      1  P    DA A   1       0.421   4.039  -2.933  1.00  0.10           P  
+ATOM      2  OP1  DA A   1       0.818   5.069  -3.901  1.00  0.16           O  
+ATOM      3  OP2  DA A   1       0.311   4.338  -1.509  1.00  0.12           O  
+ATOM      4  O5'  DA A   1       1.400   2.800  -2.997  1.00  0.11           O  
+ATOM      5  C5'  DA A   1       1.801   2.311  -4.251  1.00  0.13           C  
+ATOM      6  C4'  DA A   1       2.995   1.329  -4.062  1.00  0.08           C  
+ATOM      7  O4'  DA A   1       4.119   2.107  -3.636  1.00  0.08           O  
+ATOM      8  C3'  DA A   1       2.825   0.234  -2.994  1.00  0.07           C  
+ATOM      9  O3'  DA A   1       3.486  -0.903  -3.541  1.00  0.09           O  
+ATOM     10  C2'  DA A   1       3.512   0.802  -1.757  1.00  0.09           C  
+ATOM     11  C1'  DA A   1       4.621   1.636  -2.392  1.00  0.09           C  
+ATOM     12  N9   DA A   1       5.017   2.794  -1.636  1.00  0.08           N  
+ATOM     13  C8   DA A   1       4.355   3.964  -1.571  1.00  0.10           C  
+ATOM     14  N7   DA A   1       4.943   4.873  -0.817  1.00  0.10           N  
+ATOM     15  C5   DA A   1       6.031   4.196  -0.300  1.00  0.08           C  
+ATOM     16  C6   DA A   1       7.094   4.570   0.542  1.00  0.07           C  
+ATOM     17  N6   DA A   1       7.194   5.794   1.058  1.00  0.08           N  
+ATOM     18  N1   DA A   1       8.004   3.701   0.819  1.00  0.09           N  
+ATOM     19  C2   DA A   1       7.926   2.564   0.285  1.00  0.10           C  
+ATOM     20  N3   DA A   1       6.983   2.026  -0.522  1.00  0.10           N  
+ATOM     21  C4   DA A   1       6.068   2.946  -0.788  1.00  0.07           C  
+TER      22       DA A   1                                                      
+HETATM   23  O   HOH A   4       0.000   0.000  -0.975  0.33  0.17           O  
+HETATM   24  O   HOH A   5      11.665   6.734   3.904  0.33  0.18           O  
+HETATM   25  O   HOH A   6       0.000   0.000   3.307  0.33  0.19           O  
+HETATM   26  O   HOH A   7       0.890   2.325   0.214  1.00  0.11           O  
+HETATM   27  O   HOH A   8       9.230   7.154   2.752  1.00  0.10           O  
+HETATM   28  O   HOH A   9       0.020   5.012   3.134  1.00  0.22           O  
+HETATM   29  O   HOH A  10      10.807   4.273   0.669  1.00  0.13           O  
+HETATM   30  O   HOH A  11      -0.877   2.489   2.321  1.00  0.14           O  
+HETATM   31  O   HOH A  12      11.664   6.735  -0.303  0.33  0.21           O  
+HETATM   32  O   HOH A  13       0.146   6.831   1.878  1.00  0.17           O  
+HETATM   33  O   HOH A  14       1.701   5.931   0.657  1.00  0.24           O  
+HETATM   34  O   HOH A  15      -1.182   6.653   9.847  1.00  0.28           O  
+ENDMDL                                                                          
+MODEL        2                                                                  
+ATOM      1  P    DA A   1      -3.708  -1.655  -2.933  1.00  0.10           P  
+ATOM      2  OP1  DA A   1      -4.799  -1.826  -3.901  1.00  0.16           O  
+ATOM      3  OP2  DA A   1      -3.912  -1.900  -1.509  1.00  0.12           O  
+ATOM      4  O5'  DA A   1      -3.125  -0.188  -2.997  1.00  0.11           O  
+ATOM      5  C5'  DA A   1      -2.902   0.404  -4.251  1.00  0.13           C  
+ATOM      6  C4'  DA A   1      -2.648   1.929  -4.062  1.00  0.08           C  
+ATOM      7  O4'  DA A   1      -3.884   2.514  -3.636  1.00  0.08           O  
+ATOM      8  C3'  DA A   1      -1.615   2.329  -2.994  1.00  0.07           C  
+ATOM      9  O3'  DA A   1      -0.961   3.470  -3.541  1.00  0.09           O  
+ATOM     10  C2'  DA A   1      -2.451   2.640  -1.757  1.00  0.09           C  
+ATOM     11  C1'  DA A   1      -3.727   3.184  -2.392  1.00  0.09           C  
+ATOM     12  N9   DA A   1      -4.928   2.948  -1.636  1.00  0.08           N  
+ATOM     13  C8   DA A   1      -5.610   1.790  -1.571  1.00  0.10           C  
+ATOM     14  N7   DA A   1      -6.692   1.844  -0.817  1.00  0.10           N  
+ATOM     15  C5   DA A   1      -6.649   3.125  -0.300  1.00  0.08           C  
+ATOM     16  C6   DA A   1      -7.505   3.859   0.542  1.00  0.07           C  
+ATOM     17  N6   DA A   1      -8.615   3.333   1.058  1.00  0.08           N  
+ATOM     18  N1   DA A   1      -7.207   5.081   0.819  1.00  0.09           N  
+ATOM     19  C2   DA A   1      -6.184   5.582   0.285  1.00  0.10           C  
+ATOM     20  N3   DA A   1      -5.246   5.035  -0.522  1.00  0.10           N  
+ATOM     21  C4   DA A   1      -5.585   3.782  -0.788  1.00  0.07           C  
+TER      22       DA A   1                                                      
+HETATM   23  O   HOH A   4       0.000   0.000  -0.975  0.33  0.17           O  
+HETATM   24  O   HOH A   5     -11.664   6.735   3.904  0.33  0.18           O  
+HETATM   25  O   HOH A   6       0.000   0.000   3.307  0.33  0.19           O  
+HETATM   26  O   HOH A   7      -2.458  -0.392   0.214  1.00  0.11           O  
+HETATM   27  O   HOH A   8     -10.810   4.416   2.752  1.00  0.10           O  
+HETATM   28  O   HOH A   9      -4.351  -2.489   3.134  1.00  0.22           O  
+HETATM   29  O   HOH A  10      -9.104   7.223   0.669  1.00  0.13           O  
+HETATM   30  O   HOH A  11      -1.717  -2.004   2.321  1.00  0.14           O  
+HETATM   31  O   HOH A  12     -11.665   6.734  -0.303  0.33  0.21           O  
+HETATM   32  O   HOH A  13      -5.989  -3.289   1.878  1.00  0.17           O  
+HETATM   33  O   HOH A  14      -5.987  -1.492   0.657  1.00  0.24           O  
+HETATM   34  O   HOH A  15      -5.171  -4.350   9.847  1.00  0.28           O  
+ENDMDL                                                                          
+MODEL        3                                                                  
+ATOM      1  P    DA A   1       3.287  -2.384  -2.933  1.00  0.10           P  
+ATOM      2  OP1  DA A   1       3.981  -3.243  -3.901  1.00  0.16           O  
+ATOM      3  OP2  DA A   1       3.601  -2.438  -1.509  1.00  0.12           O  
+ATOM      4  O5'  DA A   1       1.725  -2.612  -2.997  1.00  0.11           O  
+ATOM      5  C5'  DA A   1       1.101  -2.715  -4.251  1.00  0.13           C  
+ATOM      6  C4'  DA A   1      -0.347  -3.258  -4.062  1.00  0.08           C  
+ATOM      7  O4'  DA A   1      -0.235  -4.621  -3.636  1.00  0.08           O  
+ATOM      8  C3'  DA A   1      -1.210  -2.563  -2.994  1.00  0.07           C  
+ATOM      9  O3'  DA A   1      -2.525  -2.567  -3.541  1.00  0.09           O  
+ATOM     10  C2'  DA A   1      -1.061  -3.442  -1.757  1.00  0.09           C  
+ATOM     11  C1'  DA A   1      -0.894  -4.820  -2.392  1.00  0.09           C  
+ATOM     12  N9   DA A   1      -0.089  -5.742  -1.636  1.00  0.08           N  
+ATOM     13  C8   DA A   1       1.255  -5.753  -1.571  1.00  0.10           C  
+ATOM     14  N7   DA A   1       1.749  -6.717  -0.817  1.00  0.10           N  
+ATOM     15  C5   DA A   1       0.618  -7.321  -0.300  1.00  0.08           C  
+ATOM     16  C6   DA A   1       0.411  -8.429   0.542  1.00  0.07           C  
+ATOM     17  N6   DA A   1       1.421  -9.127   1.058  1.00  0.08           N  
+ATOM     18  N1   DA A   1      -0.797  -8.782   0.819  1.00  0.09           N  
+ATOM     19  C2   DA A   1      -1.742  -8.146   0.285  1.00  0.10           C  
+ATOM     20  N3   DA A   1      -1.737  -7.061  -0.522  1.00  0.10           N  
+ATOM     21  C4   DA A   1      -0.483  -6.728  -0.788  1.00  0.07           C  
+TER      22       DA A   1                                                      
+HETATM   23  O   HOH A   4       0.000   0.000  -0.975  0.33  0.17           O  
+HETATM   24  O   HOH A   5      -0.001 -13.469   3.904  0.33  0.18           O  
+HETATM   25  O   HOH A   6       0.000   0.000   3.307  0.33  0.19           O  
+HETATM   26  O   HOH A   7       1.569  -1.933   0.214  1.00  0.11           O  
+HETATM   27  O   HOH A   8       1.581 -11.570   2.752  1.00  0.10           O  
+HETATM   28  O   HOH A   9       4.330  -2.523   3.134  1.00  0.22           O  
+HETATM   29  O   HOH A  10      -1.703 -11.496   0.669  1.00  0.13           O  
+HETATM   30  O   HOH A  11       2.594  -0.485   2.321  1.00  0.14           O  
+HETATM   31  O   HOH A  12       0.001 -13.469  -0.303  0.33  0.21           O  
+HETATM   32  O   HOH A  13       5.843  -3.542   1.878  1.00  0.17           O  
+HETATM   33  O   HOH A  14       4.286  -4.439   0.657  1.00  0.24           O  
+HETATM   34  O   HOH A  15       6.353  -2.303   9.847  1.00  0.28           O  
+ENDMDL                                                                          
+MASTER        0    0    0    0    0    0    0    6   55    2    0    2          
+END                                                                             

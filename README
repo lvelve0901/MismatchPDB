@@ -1,0 +1,38 @@
+
+This database is updated until April 27th 2017
+All crystal structures are with resolution <= 3.0 A
+
+required package for running MismatchPDB:
+pandas v 0.18.1
+numpy v 1.11.2
+json v 2.0.9
+
+written library:
+common
+learna_json
+commontool
+
+pull_pdb_all.py
+is to loop all the PDB file in ./Crystal directory, generate a array text file containing
+all the PDB id in alphabet order. Please copy this output All_crystal.txt into ./PDBinfo 
+
+pull_pdb_json.py
+is to read all the PDB file in ./Crystal directory using DSSR, generate Json file into ./Json
+generate all the stem, bulge, internal loop, hairpin fragment
+
+check_json.py
+is to check the sanity of the json files in ./Json
+
+pdbToPairTable.py
+is to parse all the json files into a searchable database containing all DNA/RNA base pairs
+into a searchable database --> Pair_crystal.csv
+Please copy Pair_crystal.csv into ./PairTable
+Note that this database has excluded all the multiplets data
+
+pull_pair_list.py
+is to select all the corresponding entry in the searchable database (Pair_crystal.csv)
+based on category of PDB (cat), crystal structure resolution (reso), base pair name (bp_name)
+we simply load csv file into a Dataframe using pandas library and use .loc function to select
+
+
+

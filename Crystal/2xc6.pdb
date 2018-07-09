@@ -1,0 +1,385 @@
+HEADER    RNA                                     16-APR-10   XXXX              
+TITLE     CRYSTAL STRUCTURE OF THE GNA 3'-CTC(BR)UAGAG-2'                       
+COMPND    5'-D(*(ZCY)P*(ZTH)P*(ZCY)P*(ZBU)P*(ZAD)P*(ZGU)P*(ZAD)P*(ZGU))-3'      
+KEYWDS    RNA, WATSON-CRICK BASE PAIR, GLYCOL NUCLEIC ACID                      
+EXPDTA    X-RAY DIFFRACTION                                                     
+AUTHOR    M.K.SCHLEGEL, L.-O.ESSEN, E.MEGGERS                                   
+JRNL        AUTH   A.T.JOHNSON, M.K.SCHLEGEL, E.MEGGERS, L.O.ESSEN, O.WIEST     
+JRNL        TITL   ON THE STRUCTURE AND DYNAMICS OF DUPLEX GNA.                 
+JRNL        REF    J.ORG.CHEM.                   V.  76  7964 2011              
+JRNL        REFN   ASTM JOCEAH  US ISSN 0022-3263                               
+JRNL        PMID   21838272                                                     
+JRNL        DOI    10.1021/JO201469B                                            
+REMARK   1                                                                      
+REMARK   1 REFERENCE 1                                                          
+REMARK   1  AUTH   M.K.SCHLEGEL, L.-O.ESSEN, E.MEGGERS                          
+REMARK   1  TITL   DUPLEX STRUCTURE OF A MINIMAL NUCLEIC ACID.                  
+REMARK   1  REF    J.AM.CHEM.SOC.                V. 130  8158 2008              
+REMARK   1  REFN   ASTM JACSAT  US ISSN 0002-7863                               
+REMARK   1  PMID   18529005                                                     
+REMARK   1  DOI    10.1021/JA802788G                                            
+REMARK   1 REFERENCE 2                                                          
+REMARK   1  AUTH   M.K.SCHLEGEL, L.-O.ESSEN, E.MEGGERS                          
+REMARK   1  TITL   ATOMIC RESOLUTION DUPLEX STRUCTURE OF THE SIMPLIFIED NUCLEIC 
+REMARK   1  TITL 2 ACID GNA.                                                    
+REMARK   1  REF    CHEM.COMMUN.(CAMB.)           V.  46  1094 2010              
+REMARK   1  REFN                UK ISSN 1359-7345                               
+REMARK   1  PMID   20126724                                                     
+REMARK   1  DOI    10.1039/B916851F                                             
+SEQRES   1 A    8  ZCY ZTH ZCY ZBU ZAD ZGU ZAD ZGU                              
+HETNAM     ZCY (S)-1'-(2',3'-DIHYDROXYPROPYL)-CYTOSINE                          
+HETNAM     ZTH (S)-1'-(2',3'-DIHYDROXYPROPYL)-THYMINE                           
+HETNAM     ZBU (S)-1'-(2',3'-DIHYDROXYPROPYL)-5-BROMO-URACIL                    
+HETNAM     ZAD (S)-1'-(2',3'-DIHYDROXYPROPYL)-ADENINE                           
+HETNAM     ZGU (S)-1'-(2',3'-DIHYDROXYPROPYL)-GUANINE                           
+HETNAM      NA SODIUM ION                                                       
+FORMUL   1  ZCY    2(C7 H12 N3 O6 P)                                            
+FORMUL   1  ZTH    C8 H13 N2 O7 P                                               
+FORMUL   1  ZBU    C7 H10 BR N2 O7 P                                            
+FORMUL   1  ZAD    2(C8 H12 N5 O5 P)                                            
+FORMUL   1  ZGU    2(C8 H12 N5 O6 P)                                            
+FORMUL   2   NA    2(NA 1+)                                                     
+FORMUL   4  HOH   *21(H2 O)                                                     
+LINK         O2G ZCY A   1                 P   ZTH A   2     1555   1555  1.60  
+LINK         O2G ZTH A   2                 P   ZCY A   3     1555   1555  1.58  
+LINK         O2G ZCY A   3                 P   ZBU A   4     1555   1555  1.59  
+LINK         O2G ZBU A   4                 P   ZAD A   5     1555   1555  1.60  
+LINK         O2G ZAD A   5                 P   ZGU A   6     1555   1555  1.60  
+LINK         O2G ZGU A   6                 P   ZAD A   7     1555   1555  1.58  
+LINK         O2G ZAD A   7                 P   ZGU A   8     1555   1555  1.60  
+SITE     1 AC1  1 ZBU A   4                                                     
+CRYST1   56.930   56.930   28.970  90.00  90.00  90.00 I 41 2 2     16          
+ORIGX1      1.000000  0.000000  0.000000        0.00000                         
+ORIGX2      0.000000  1.000000  0.000000        0.00000                         
+ORIGX3      0.000000  0.000000  1.000000        0.00000                         
+SCALE1      0.017565  0.000000  0.000000        0.00000                         
+SCALE2      0.000000  0.017565  0.000000        0.00000                         
+SCALE3      0.000000  0.000000  0.034518        0.00000                         
+MODEL        1                                                                  
+HETATM    1  O2  ZCY A   1       7.581  11.893 -23.952  0.70 36.08           O  
+HETATM    2  C2  ZCY A   1       7.970  13.075 -23.822  0.70 36.53           C  
+HETATM    3  N3  ZCY A   1       7.084  14.094 -23.709  0.70 35.72           N  
+HETATM    4  C4  ZCY A   1       7.475  15.357 -23.565  0.70 34.67           C  
+HETATM    5  N4  ZCY A   1       6.520  16.287 -23.462  0.70 33.49           N  
+HETATM    6  C5  ZCY A   1       8.862  15.706 -23.524  0.70 36.44           C  
+HETATM    7  C6  ZCY A   1       9.745  14.702 -23.641  0.70 36.70           C  
+HETATM    8  N1  ZCY A   1       9.332  13.398 -23.791  0.70 36.99           N  
+HETATM    9  C1G ZCY A   1      10.364  12.338 -23.897  0.70 38.91           C  
+HETATM   10  C2G ZCY A   1      10.757  11.867 -22.502  0.70 40.75           C  
+HETATM   11  O2G ZCY A   1      11.447  12.941 -21.833  0.70 41.90           O  
+HETATM   12  C3G ZCY A   1      11.621  10.606 -22.577  0.70 41.26           C  
+HETATM   13  O3G ZCY A   1      12.789  10.845 -23.365  0.70 41.52           O  
+HETATM   14  O4  ZTH A   2       1.443  14.835 -20.103  1.00 32.99           O  
+HETATM   15  C4  ZTH A   2       2.673  14.853 -20.127  1.00 33.75           C  
+HETATM   16  N3  ZTH A   2       3.417  13.713 -20.400  1.00 31.96           N  
+HETATM   17  C2  ZTH A   2       4.780  13.595 -20.455  1.00 32.95           C  
+HETATM   18  O2  ZTH A   2       5.327  12.536 -20.697  1.00 32.96           O  
+HETATM   19  C5  ZTH A   2       3.453  16.036 -19.861  1.00 34.65           C  
+HETATM   20  C5M ZTH A   2       2.788  17.347 -19.557  1.00 37.76           C  
+HETATM   21  C6  ZTH A   2       4.792  15.942 -19.913  1.00 35.18           C  
+HETATM   22  N1  ZTH A   2       5.468  14.766 -20.187  1.00 34.85           N  
+HETATM   23  C1G ZTH A   2       6.957  14.771 -20.229  1.00 37.60           C  
+HETATM   24  C2G ZTH A   2       7.643  14.274 -18.969  1.00 39.16           C  
+HETATM   25  O2G ZTH A   2       7.214  15.100 -17.879  1.00 38.66           O  
+HETATM   26  C3G ZTH A   2       9.160  14.381 -19.147  1.00 41.31           C  
+HETATM   27  O3G ZTH A   2       9.642  13.435 -20.119  1.00 43.38           O  
+HETATM   28  P   ZTH A   2      11.227  13.236 -20.280  1.00 45.41           P  
+HETATM   29  O1P ZTH A   2      11.956  14.305 -19.518  0.50 41.98           O  
+HETATM   30  O2P ZTH A   2      10.963  11.941 -19.560  0.50 42.17           O  
+HETATM   31  O2  ZCY A   3       2.905   9.435 -17.774  1.00 26.09           O  
+HETATM   32  C2  ZCY A   3       1.887  10.125 -17.690  1.00 26.81           C  
+HETATM   33  N3  ZCY A   3       0.635   9.615 -17.742  1.00 27.03           N  
+HETATM   34  C4  ZCY A   3      -0.442  10.400 -17.624  1.00 29.21           C  
+HETATM   35  N4  ZCY A   3      -1.660   9.843 -17.684  1.00 29.83           N  
+HETATM   36  C5  ZCY A   3      -0.299  11.796 -17.447  1.00 29.41           C  
+HETATM   37  C6  ZCY A   3       0.944  12.303 -17.392  1.00 28.43           C  
+HETATM   38  N1  ZCY A   3       2.046  11.498 -17.509  1.00 26.74           N  
+HETATM   39  C1G ZCY A   3       3.409  12.074 -17.457  1.00 27.57           C  
+HETATM   40  C2G ZCY A   3       3.987  12.050 -16.056  1.00 30.02           C  
+HETATM   41  O2G ZCY A   3       3.216  12.987 -15.304  1.00 29.37           O  
+HETATM   42  C3G ZCY A   3       5.471  12.400 -16.081  1.00 34.51           C  
+HETATM   43  O3G ZCY A   3       5.661  13.689 -16.649  1.00 34.99           O  
+HETATM   44  P   ZCY A   3       7.043  14.469 -16.441  1.00 38.28           P  
+HETATM   45  O2P ZCY A   3       6.848  15.592 -15.466  1.00 40.66           O  
+HETATM   46  O1P ZCY A   3       8.115  13.432 -16.225  1.00 39.70           O  
+HETATM   47  O1P ZBU A   4       2.267  13.914 -13.020  1.00 37.66           O  
+HETATM   48  P   ZBU A   4       2.993  12.812 -13.745  1.00 37.23           P  
+HETATM   49  O2P ZBU A   4       4.225  12.224 -13.113  1.00 38.02           O  
+HETATM   50  O3G ZBU A   4       2.104  11.498 -13.762  1.00 32.88           O  
+HETATM   51  C3G ZBU A   4       0.937  11.406 -12.976  1.00 32.67           C  
+HETATM   52  C2G ZBU A   4       0.453   9.965 -13.040  1.00 30.32           C  
+HETATM   53  O2G ZBU A   4      -0.660   9.815 -12.169  1.00 32.12           O  
+HETATM   54  C1G ZBU A   4       0.040   9.654 -14.478  1.00 29.77           C  
+HETATM   55  N1  ZBU A   4      -0.478   8.244 -14.685  1.00 29.17           N  
+HETATM   56  C2  ZBU A   4       0.345   7.186 -14.969  1.00 28.21           C  
+HETATM   57  O2  ZBU A   4       1.531   7.238 -15.018  1.00 26.22           O  
+HETATM   58  N3  ZBU A   4      -0.289   5.968 -15.149  1.00 29.51           N  
+HETATM   59  C6  ZBU A   4      -1.821   8.079 -14.653  1.00 32.68           C  
+HETATM   60  C5  ZBU A   4      -2.404   6.904 -14.838  1.00 34.26           C  
+HETATM   61 BR5  ZBU A   4      -4.253   6.823 -14.723  0.60 40.71          BR  
+HETATM   62  C4  ZBU A   4      -1.628   5.734 -15.106  1.00 31.10           C  
+HETATM   63  O4  ZBU A   4      -2.077   4.609 -15.297  1.00 33.19           O  
+HETATM   64  O2P ZAD A   5      -1.723   9.693 -10.228  1.00 41.85           O  
+HETATM   65  P   ZAD A   5      -0.331   9.346 -10.673  1.00 37.53           P  
+HETATM   66  O1P ZAD A   5       0.844  10.096 -10.107  1.00 35.50           O  
+HETATM   67  O3G ZAD A   5      -0.122   7.805 -11.003  1.00 34.88           O  
+HETATM   68  C3G ZAD A   5       1.047   7.179 -10.456  1.00 33.54           C  
+HETATM   69  C2G ZAD A   5       0.936   5.669 -10.630  1.00 29.74           C  
+HETATM   70  O2G ZAD A   5      -0.275   5.225  -9.999  1.00 28.86           O  
+HETATM   71  C1G ZAD A   5       0.857   5.313 -12.106  1.00 28.49           C  
+HETATM   72  N9  ZAD A   5       0.938   3.887 -12.307  1.00 26.60           N  
+HETATM   73  C4  ZAD A   5       2.044   3.165 -12.603  1.00 25.62           C  
+HETATM   74  N3  ZAD A   5       3.306   3.632 -12.742  1.00 24.79           N  
+HETATM   75  C2  ZAD A   5       4.122   2.616 -13.031  1.00 23.38           C  
+HETATM   76  N1  ZAD A   5       3.862   1.305 -13.158  1.00 25.17           N  
+HETATM   77  C6  ZAD A   5       2.564   0.908 -12.981  1.00 25.13           C  
+HETATM   78  N6  ZAD A   5       2.238  -0.364 -13.095  1.00 24.55           N  
+HETATM   79  C5  ZAD A   5       1.601   1.883 -12.694  1.00 24.78           C  
+HETATM   80  N7  ZAD A   5       0.224   1.785 -12.466  1.00 24.65           N  
+HETATM   81  C8  ZAD A   5      -0.109   3.013 -12.262  1.00 26.53           C  
+HETATM   82  P   ZGU A   6      -0.288   4.607  -8.525  1.00 29.08           P  
+HETATM   83  O1P ZGU A   6      -1.720   4.239  -8.280  1.00 28.50           O  
+HETATM   84  O2P ZGU A   6       0.314   5.529  -7.525  1.00 28.19           O  
+HETATM   85  O3G ZGU A   6       0.437   3.193  -8.732  1.00 24.67           O  
+HETATM   86  C3G ZGU A   6       0.644   2.304  -7.650  1.00 21.46           C  
+HETATM   87  C2G ZGU A   6       1.903   1.473  -7.924  1.00 22.46           C  
+HETATM   88  O2G ZGU A   6       1.874   0.330  -7.095  1.00 22.54           O  
+HETATM   89  C1G ZGU A   6       1.930   1.018  -9.379  1.00 24.47           C  
+HETATM   90  N9  ZGU A   6       2.991   0.074  -9.671  1.00 25.79           N  
+HETATM   91  C8  ZGU A   6       2.944  -1.299  -9.733  1.00 24.41           C  
+HETATM   92  N7  ZGU A   6       4.087  -1.846 -10.025  1.00 25.59           N  
+HETATM   93  C4  ZGU A   6       4.267   0.432  -9.982  1.00 23.20           C  
+HETATM   94  C5  ZGU A   6       4.923  -0.754 -10.196  1.00 23.46           C  
+HETATM   95  N3  ZGU A   6       4.738   1.691 -10.022  1.00 22.06           N  
+HETATM   96  C2  ZGU A   6       6.004   1.737 -10.388  1.00 24.92           C  
+HETATM   97  N2  ZGU A   6       6.651   2.925 -10.488  1.00 24.04           N  
+HETATM   98  N1  ZGU A   6       6.748   0.599 -10.627  1.00 21.84           N  
+HETATM   99  C6  ZGU A   6       6.275  -0.713 -10.558  1.00 24.73           C  
+HETATM  100  O6  ZGU A   6       7.029  -1.669 -10.777  1.00 25.77           O  
+HETATM  101  O2P ZAD A   7       2.362  -1.019  -5.125  1.00 24.44           O  
+HETATM  102  P   ZAD A   7       2.633   0.336  -5.705  1.00 22.85           P  
+HETATM  103  O1P ZAD A   7       2.144   1.521  -4.903  1.00 23.28           O  
+HETATM  104  O3G ZAD A   7       4.130   0.464  -6.232  1.00 23.19           O  
+HETATM  105  C3G ZAD A   7       5.130   1.033  -5.382  1.00 25.38           C  
+HETATM  106  C2G ZAD A   7       6.471   0.417  -5.738  1.00 22.89           C  
+HETATM  107  O2G ZAD A   7       6.501  -0.900  -5.239  1.00 27.49           O  
+HETATM  108  C1G ZAD A   7       6.624   0.325  -7.253  1.00 23.49           C  
+HETATM  109  N9  ZAD A   7       7.987  -0.110  -7.512  1.00 25.41           N  
+HETATM  110  C4  ZAD A   7       9.018   0.738  -7.691  1.00 24.17           C  
+HETATM  111  N3  ZAD A   7       8.993   2.078  -7.695  1.00 24.27           N  
+HETATM  112  C2  ZAD A   7      10.212   2.572  -7.904  1.00 28.14           C  
+HETATM  113  N1  ZAD A   7      11.356   1.905  -8.102  1.00 27.93           N  
+HETATM  114  C6  ZAD A   7      11.318   0.551  -8.104  1.00 27.18           C  
+HETATM  115  N6  ZAD A   7      12.418  -0.170  -8.278  1.00 27.43           N  
+HETATM  116  C5  ZAD A   7      10.106  -0.084  -7.883  1.00 26.88           C  
+HETATM  117  N7  ZAD A   7       9.763  -1.419  -7.812  1.00 28.05           N  
+HETATM  118  C8  ZAD A   7       8.465  -1.374  -7.596  1.00 27.15           C  
+HETATM  119  P   ZGU A   8       7.035  -1.246  -3.773  1.00 31.50           P  
+HETATM  120  O1P ZGU A   8       6.961  -2.747  -3.826  1.00 34.39           O  
+HETATM  121  O2P ZGU A   8       6.307  -0.537  -2.690  1.00 29.36           O  
+HETATM  122  O3G ZGU A   8       8.557  -0.846  -3.991  1.00 34.31           O  
+HETATM  123  C3G ZGU A   8       9.414  -1.026  -2.896  1.00 34.94           C  
+HETATM  124  C2G ZGU A   8      10.729  -0.315  -3.177  1.00 33.59           C  
+HETATM  125  O2G ZGU A   8      11.671  -0.916  -2.313  1.00 36.00           O  
+HETATM  126  C1G ZGU A   8      11.154  -0.421  -4.646  1.00 32.49           C  
+HETATM  127  N9  ZGU A   8      12.393   0.290  -4.951  1.00 31.34           N  
+HETATM  128  C8  ZGU A   8      13.633  -0.217  -5.233  1.00 31.87           C  
+HETATM  129  N7  ZGU A   8      14.549   0.701  -5.467  1.00 29.97           N  
+HETATM  130  C4  ZGU A   8      12.549   1.647  -5.000  1.00 31.36           C  
+HETATM  131  C5  ZGU A   8      13.865   1.900  -5.319  1.00 30.56           C  
+HETATM  132  N3  ZGU A   8      11.549   2.508  -4.765  1.00 31.47           N  
+HETATM  133  C2  ZGU A   8      11.942   3.760  -4.878  1.00 31.72           C  
+HETATM  134  N2  ZGU A   8      11.006   4.700  -4.667  1.00 35.30           N  
+HETATM  135  N1  ZGU A   8      13.229   4.146  -5.175  1.00 31.90           N  
+HETATM  136  C6  ZGU A   8      14.291   3.261  -5.422  1.00 31.06           C  
+HETATM  137  O6  ZGU A   8      15.415   3.705  -5.702  1.00 30.56           O  
+TER     138      ZGU A   8                                                      
+HETATM  139 NA    NA A1001      -4.788   6.965  -9.098  1.00 53.04          NA  
+HETATM  140 NA    NA A1002       5.158  12.754  -9.857  0.50 58.19          NA  
+HETATM  141  O   HOH A2001       4.967   8.731  -9.292  1.00 71.01           O  
+HETATM  142  O   HOH A2002      16.082  12.600 -22.517  0.50 58.03           O  
+HETATM  143  O   HOH A2003       6.820  10.392 -20.198  1.00 39.64           O  
+HETATM  144  O   HOH A2004       0.724   4.095  -1.515  1.00 50.42           O  
+HETATM  145  O   HOH A2005      -5.122  10.024 -17.391  1.00 55.93           O  
+HETATM  146  O   HOH A2006       4.322   7.666 -14.838  1.00 48.45           O  
+HETATM  147  O   HOH A2007      -4.168   3.440 -16.855  1.00 36.87           O  
+HETATM  148  O   HOH A2008      -0.919  15.064 -11.368  0.50 35.59           O  
+HETATM  149  O   HOH A2009      -4.243  10.410 -13.680  1.00 64.77           O  
+HETATM  150  O   HOH A2010       4.598   6.005 -12.695  0.50 26.32           O  
+HETATM  151  O   HOH A2011       4.905   6.378 -10.931  0.50 37.51           O  
+HETATM  152  O   HOH A2012       6.931  -4.199 -10.204  1.00 46.04           O  
+HETATM  153  O   HOH A2013      -0.231   2.011  -3.769  1.00 32.21           O  
+HETATM  154  O   HOH A2014       7.156   3.839  -6.970  1.00 30.03           O  
+HETATM  155  O   HOH A2015       3.157  -3.253  -6.181  1.00 40.20           O  
+HETATM  156  O   HOH A2016      13.267  -3.233  -7.661  1.00 49.30           O  
+HETATM  157  O   HOH A2017       3.056   3.951  -4.227  1.00 41.82           O  
+HETATM  158  O   HOH A2018       8.054   3.847  -4.362  1.00 53.20           O  
+HETATM  159  O   HOH A2019      18.248   3.674  -5.876  1.00 37.57           O  
+HETATM  160  O   HOH A2020      13.646  -3.393  -3.219  0.50 38.50           O  
+HETATM  161  O   HOH A2021       5.506  -7.093  -3.369  1.00 66.33           O  
+ENDMDL                                                                          
+MODEL        2                                                                  
+HETATM    1  O2  ZCY A   1      11.893   7.581  -5.018  0.70 36.08           O  
+HETATM    2  C2  ZCY A   1      13.075   7.970  -5.148  0.70 36.53           C  
+HETATM    3  N3  ZCY A   1      14.094   7.084  -5.261  0.70 35.72           N  
+HETATM    4  C4  ZCY A   1      15.357   7.475  -5.405  0.70 34.67           C  
+HETATM    5  N4  ZCY A   1      16.287   6.520  -5.508  0.70 33.49           N  
+HETATM    6  C5  ZCY A   1      15.706   8.862  -5.446  0.70 36.44           C  
+HETATM    7  C6  ZCY A   1      14.702   9.745  -5.329  0.70 36.70           C  
+HETATM    8  N1  ZCY A   1      13.398   9.332  -5.179  0.70 36.99           N  
+HETATM    9  C1G ZCY A   1      12.338  10.364  -5.073  0.70 38.91           C  
+HETATM   10  C2G ZCY A   1      11.867  10.757  -6.468  0.70 40.75           C  
+HETATM   11  O2G ZCY A   1      12.941  11.447  -7.137  0.70 41.90           O  
+HETATM   12  C3G ZCY A   1      10.606  11.621  -6.393  0.70 41.26           C  
+HETATM   13  O3G ZCY A   1      10.845  12.789  -5.605  0.70 41.52           O  
+HETATM   14  O4  ZTH A   2      14.835   1.443  -8.867  1.00 32.99           O  
+HETATM   15  C4  ZTH A   2      14.853   2.673  -8.843  1.00 33.75           C  
+HETATM   16  N3  ZTH A   2      13.713   3.417  -8.570  1.00 31.96           N  
+HETATM   17  C2  ZTH A   2      13.595   4.780  -8.515  1.00 32.95           C  
+HETATM   18  O2  ZTH A   2      12.536   5.327  -8.273  1.00 32.96           O  
+HETATM   19  C5  ZTH A   2      16.036   3.453  -9.109  1.00 34.65           C  
+HETATM   20  C5M ZTH A   2      17.347   2.788  -9.413  1.00 37.76           C  
+HETATM   21  C6  ZTH A   2      15.942   4.792  -9.057  1.00 35.18           C  
+HETATM   22  N1  ZTH A   2      14.766   5.468  -8.783  1.00 34.85           N  
+HETATM   23  C1G ZTH A   2      14.771   6.957  -8.741  1.00 37.60           C  
+HETATM   24  C2G ZTH A   2      14.274   7.643 -10.001  1.00 39.16           C  
+HETATM   25  O2G ZTH A   2      15.100   7.214 -11.091  1.00 38.66           O  
+HETATM   26  C3G ZTH A   2      14.381   9.160  -9.823  1.00 41.31           C  
+HETATM   27  O3G ZTH A   2      13.435   9.642  -8.851  1.00 43.38           O  
+HETATM   28  P   ZTH A   2      13.236  11.227  -8.690  1.00 45.41           P  
+HETATM   29  O1P ZTH A   2      14.305  11.956  -9.452  0.50 41.98           O  
+HETATM   30  O2P ZTH A   2      11.941  10.963  -9.410  0.50 42.17           O  
+HETATM   31  O2  ZCY A   3       9.435   2.905 -11.196  1.00 26.09           O  
+HETATM   32  C2  ZCY A   3      10.125   1.887 -11.280  1.00 26.81           C  
+HETATM   33  N3  ZCY A   3       9.615   0.635 -11.228  1.00 27.03           N  
+HETATM   34  C4  ZCY A   3      10.400  -0.442 -11.346  1.00 29.21           C  
+HETATM   35  N4  ZCY A   3       9.843  -1.660 -11.286  1.00 29.83           N  
+HETATM   36  C5  ZCY A   3      11.796  -0.299 -11.523  1.00 29.41           C  
+HETATM   37  C6  ZCY A   3      12.303   0.944 -11.578  1.00 28.43           C  
+HETATM   38  N1  ZCY A   3      11.498   2.046 -11.461  1.00 26.74           N  
+HETATM   39  C1G ZCY A   3      12.074   3.409 -11.513  1.00 27.57           C  
+HETATM   40  C2G ZCY A   3      12.050   3.987 -12.914  1.00 30.02           C  
+HETATM   41  O2G ZCY A   3      12.987   3.216 -13.666  1.00 29.37           O  
+HETATM   42  C3G ZCY A   3      12.400   5.471 -12.889  1.00 34.51           C  
+HETATM   43  O3G ZCY A   3      13.689   5.661 -12.321  1.00 34.99           O  
+HETATM   44  P   ZCY A   3      14.469   7.043 -12.529  1.00 38.28           P  
+HETATM   45  O2P ZCY A   3      15.592   6.848 -13.504  1.00 40.66           O  
+HETATM   46  O1P ZCY A   3      13.432   8.115 -12.745  1.00 39.70           O  
+HETATM   47  O1P ZBU A   4      13.914   2.267 -15.950  1.00 37.66           O  
+HETATM   48  P   ZBU A   4      12.812   2.993 -15.225  1.00 37.23           P  
+HETATM   49  O2P ZBU A   4      12.224   4.225 -15.857  1.00 38.02           O  
+HETATM   50  O3G ZBU A   4      11.498   2.104 -15.208  1.00 32.88           O  
+HETATM   51  C3G ZBU A   4      11.406   0.937 -15.994  1.00 32.67           C  
+HETATM   52  C2G ZBU A   4       9.965   0.453 -15.930  1.00 30.32           C  
+HETATM   53  O2G ZBU A   4       9.815  -0.660 -16.801  1.00 32.12           O  
+HETATM   54  C1G ZBU A   4       9.654   0.040 -14.492  1.00 29.77           C  
+HETATM   55  N1  ZBU A   4       8.244  -0.478 -14.285  1.00 29.17           N  
+HETATM   56  C2  ZBU A   4       7.186   0.345 -14.001  1.00 28.21           C  
+HETATM   57  O2  ZBU A   4       7.238   1.531 -13.952  1.00 26.22           O  
+HETATM   58  N3  ZBU A   4       5.968  -0.289 -13.821  1.00 29.51           N  
+HETATM   59  C6  ZBU A   4       8.079  -1.821 -14.317  1.00 32.68           C  
+HETATM   60  C5  ZBU A   4       6.904  -2.404 -14.132  1.00 34.26           C  
+HETATM   61 BR5  ZBU A   4       6.823  -4.253 -14.247  0.60 40.71          BR  
+HETATM   62  C4  ZBU A   4       5.734  -1.628 -13.864  1.00 31.10           C  
+HETATM   63  O4  ZBU A   4       4.609  -2.077 -13.673  1.00 33.19           O  
+HETATM   64  O2P ZAD A   5       9.693  -1.723 -18.742  1.00 41.85           O  
+HETATM   65  P   ZAD A   5       9.346  -0.331 -18.297  1.00 37.53           P  
+HETATM   66  O1P ZAD A   5      10.096   0.844 -18.863  1.00 35.50           O  
+HETATM   67  O3G ZAD A   5       7.805  -0.122 -17.967  1.00 34.88           O  
+HETATM   68  C3G ZAD A   5       7.179   1.047 -18.514  1.00 33.54           C  
+HETATM   69  C2G ZAD A   5       5.669   0.936 -18.340  1.00 29.74           C  
+HETATM   70  O2G ZAD A   5       5.225  -0.275 -18.971  1.00 28.86           O  
+HETATM   71  C1G ZAD A   5       5.313   0.857 -16.864  1.00 28.49           C  
+HETATM   72  N9  ZAD A   5       3.887   0.938 -16.663  1.00 26.60           N  
+HETATM   73  C4  ZAD A   5       3.165   2.044 -16.367  1.00 25.62           C  
+HETATM   74  N3  ZAD A   5       3.632   3.306 -16.228  1.00 24.79           N  
+HETATM   75  C2  ZAD A   5       2.616   4.122 -15.939  1.00 23.38           C  
+HETATM   76  N1  ZAD A   5       1.305   3.862 -15.812  1.00 25.17           N  
+HETATM   77  C6  ZAD A   5       0.908   2.564 -15.989  1.00 25.13           C  
+HETATM   78  N6  ZAD A   5      -0.364   2.238 -15.875  1.00 24.55           N  
+HETATM   79  C5  ZAD A   5       1.883   1.601 -16.276  1.00 24.78           C  
+HETATM   80  N7  ZAD A   5       1.785   0.224 -16.504  1.00 24.65           N  
+HETATM   81  C8  ZAD A   5       3.013  -0.109 -16.708  1.00 26.53           C  
+HETATM   82  P   ZGU A   6       4.607  -0.288 -20.445  1.00 29.08           P  
+HETATM   83  O1P ZGU A   6       4.239  -1.720 -20.690  1.00 28.50           O  
+HETATM   84  O2P ZGU A   6       5.529   0.314 -21.445  1.00 28.19           O  
+HETATM   85  O3G ZGU A   6       3.193   0.437 -20.238  1.00 24.67           O  
+HETATM   86  C3G ZGU A   6       2.304   0.644 -21.320  1.00 21.46           C  
+HETATM   87  C2G ZGU A   6       1.473   1.903 -21.046  1.00 22.46           C  
+HETATM   88  O2G ZGU A   6       0.330   1.874 -21.875  1.00 22.54           O  
+HETATM   89  C1G ZGU A   6       1.018   1.930 -19.591  1.00 24.47           C  
+HETATM   90  N9  ZGU A   6       0.074   2.991 -19.299  1.00 25.79           N  
+HETATM   91  C8  ZGU A   6      -1.299   2.944 -19.237  1.00 24.41           C  
+HETATM   92  N7  ZGU A   6      -1.846   4.087 -18.945  1.00 25.59           N  
+HETATM   93  C4  ZGU A   6       0.432   4.267 -18.988  1.00 23.20           C  
+HETATM   94  C5  ZGU A   6      -0.754   4.923 -18.774  1.00 23.46           C  
+HETATM   95  N3  ZGU A   6       1.691   4.738 -18.948  1.00 22.06           N  
+HETATM   96  C2  ZGU A   6       1.737   6.004 -18.582  1.00 24.92           C  
+HETATM   97  N2  ZGU A   6       2.925   6.651 -18.482  1.00 24.04           N  
+HETATM   98  N1  ZGU A   6       0.599   6.748 -18.343  1.00 21.84           N  
+HETATM   99  C6  ZGU A   6      -0.713   6.275 -18.412  1.00 24.73           C  
+HETATM  100  O6  ZGU A   6      -1.669   7.029 -18.193  1.00 25.77           O  
+HETATM  101  O2P ZAD A   7      -1.019   2.362 -23.845  1.00 24.44           O  
+HETATM  102  P   ZAD A   7       0.336   2.633 -23.265  1.00 22.85           P  
+HETATM  103  O1P ZAD A   7       1.521   2.144 -24.067  1.00 23.28           O  
+HETATM  104  O3G ZAD A   7       0.464   4.130 -22.738  1.00 23.19           O  
+HETATM  105  C3G ZAD A   7       1.033   5.130 -23.588  1.00 25.38           C  
+HETATM  106  C2G ZAD A   7       0.417   6.471 -23.232  1.00 22.89           C  
+HETATM  107  O2G ZAD A   7      -0.900   6.501 -23.731  1.00 27.49           O  
+HETATM  108  C1G ZAD A   7       0.325   6.624 -21.717  1.00 23.49           C  
+HETATM  109  N9  ZAD A   7      -0.110   7.987 -21.458  1.00 25.41           N  
+HETATM  110  C4  ZAD A   7       0.738   9.018 -21.279  1.00 24.17           C  
+HETATM  111  N3  ZAD A   7       2.078   8.993 -21.275  1.00 24.27           N  
+HETATM  112  C2  ZAD A   7       2.572  10.212 -21.066  1.00 28.14           C  
+HETATM  113  N1  ZAD A   7       1.905  11.356 -20.868  1.00 27.93           N  
+HETATM  114  C6  ZAD A   7       0.551  11.318 -20.866  1.00 27.18           C  
+HETATM  115  N6  ZAD A   7      -0.170  12.418 -20.692  1.00 27.43           N  
+HETATM  116  C5  ZAD A   7      -0.084  10.106 -21.087  1.00 26.88           C  
+HETATM  117  N7  ZAD A   7      -1.419   9.763 -21.158  1.00 28.05           N  
+HETATM  118  C8  ZAD A   7      -1.374   8.465 -21.374  1.00 27.15           C  
+HETATM  119  P   ZGU A   8      -1.246   7.035 -25.197  1.00 31.50           P  
+HETATM  120  O1P ZGU A   8      -2.747   6.961 -25.144  1.00 34.39           O  
+HETATM  121  O2P ZGU A   8      -0.537   6.307 -26.280  1.00 29.36           O  
+HETATM  122  O3G ZGU A   8      -0.846   8.557 -24.979  1.00 34.31           O  
+HETATM  123  C3G ZGU A   8      -1.026   9.414 -26.074  1.00 34.94           C  
+HETATM  124  C2G ZGU A   8      -0.315  10.729 -25.793  1.00 33.59           C  
+HETATM  125  O2G ZGU A   8      -0.916  11.671 -26.657  1.00 36.00           O  
+HETATM  126  C1G ZGU A   8      -0.421  11.154 -24.324  1.00 32.49           C  
+HETATM  127  N9  ZGU A   8       0.290  12.393 -24.019  1.00 31.34           N  
+HETATM  128  C8  ZGU A   8      -0.217  13.633 -23.737  1.00 31.87           C  
+HETATM  129  N7  ZGU A   8       0.701  14.549 -23.503  1.00 29.97           N  
+HETATM  130  C4  ZGU A   8       1.647  12.549 -23.970  1.00 31.36           C  
+HETATM  131  C5  ZGU A   8       1.900  13.865 -23.651  1.00 30.56           C  
+HETATM  132  N3  ZGU A   8       2.508  11.549 -24.205  1.00 31.47           N  
+HETATM  133  C2  ZGU A   8       3.760  11.942 -24.092  1.00 31.72           C  
+HETATM  134  N2  ZGU A   8       4.700  11.006 -24.303  1.00 35.30           N  
+HETATM  135  N1  ZGU A   8       4.146  13.229 -23.795  1.00 31.90           N  
+HETATM  136  C6  ZGU A   8       3.261  14.291 -23.548  1.00 31.06           C  
+HETATM  137  O6  ZGU A   8       3.705  15.415 -23.268  1.00 30.56           O  
+TER     138      ZGU A   8                                                      
+HETATM  139 NA    NA A1001       6.965  -4.788 -19.872  1.00 53.04          NA  
+HETATM  140 NA    NA A1002      12.754   5.158 -19.113  0.50 58.19          NA  
+HETATM  141  O   HOH A2001       8.731   4.967 -19.678  1.00 71.01           O  
+HETATM  142  O   HOH A2002      12.600  16.082  -6.453  0.50 58.03           O  
+HETATM  143  O   HOH A2003      10.392   6.820  -8.772  1.00 39.64           O  
+HETATM  144  O   HOH A2004       4.095   0.724 -27.455  1.00 50.42           O  
+HETATM  145  O   HOH A2005      10.024  -5.122 -11.579  1.00 55.93           O  
+HETATM  146  O   HOH A2006       7.666   4.322 -14.132  1.00 48.45           O  
+HETATM  147  O   HOH A2007       3.440  -4.168 -12.115  1.00 36.87           O  
+HETATM  148  O   HOH A2008      15.064  -0.919 -17.602  0.50 35.59           O  
+HETATM  149  O   HOH A2009      10.410  -4.243 -15.290  1.00 64.77           O  
+HETATM  150  O   HOH A2010       6.005   4.598 -16.275  0.50 26.32           O  
+HETATM  151  O   HOH A2011       6.378   4.905 -18.039  0.50 37.51           O  
+HETATM  152  O   HOH A2012      -4.199   6.931 -18.766  1.00 46.04           O  
+HETATM  153  O   HOH A2013       2.011  -0.231 -25.201  1.00 32.21           O  
+HETATM  154  O   HOH A2014       3.839   7.156 -22.000  1.00 30.03           O  
+HETATM  155  O   HOH A2015      -3.253   3.157 -22.789  1.00 40.20           O  
+HETATM  156  O   HOH A2016      -3.233  13.267 -21.309  1.00 49.30           O  
+HETATM  157  O   HOH A2017       3.951   3.056 -24.743  1.00 41.82           O  
+HETATM  158  O   HOH A2018       3.847   8.054 -24.608  1.00 53.20           O  
+HETATM  159  O   HOH A2019       3.674  18.248 -23.094  1.00 37.57           O  
+HETATM  160  O   HOH A2020      -3.393  13.646 -25.751  0.50 38.50           O  
+HETATM  161  O   HOH A2021      -7.093   5.506 -25.601  1.00 66.33           O  
+ENDMDL                                                                          
+MASTER       12    0    0    0    0    0    1    6  160    1    0    1          
+END                                                                             

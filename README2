@@ -1,0 +1,100 @@
+
+Problematic catogory
+
+1g3x should be in dna category, but now in protein#dna, change the category
+
+Problematic pdb structure
+
+1r9f structure has some ensemble issue, redownload the non-BioAssemb file and prepare the stem file
+2e1c structure has some ensemble issue, redownload the non-BioAssemb file and prepare the stem file
+3crx structure has some ensemble issue, redownload the non-BioAssemb file and prepare the stem file
+4cis cannot analyze C6' atom, change C6' --> O4'
+4ktg structure has some ensemble issue, redownload the non-BioAssemb file and prepare the stem file
+5eme structure has some ensemble issue, remove it into recycle
+5emf structure has some ensemble issue, remove it into recycle
+5eyq structure has some ensemble issue, remove it into recycle
+6cro structure has some ensemble issue, redownload the non-BioAssemb file and prepare the stem file
+6mht cannot analyze S4' atom, change S4' --> O4'
+
+Problematic helice structure
+
+1n7a: same number from different strand in same helice : remove it into recycle
+1n7b: same number from different strand in same helice : remove it into recycle
+1qyk: same number from different strand in same helice : remove it into recycle
+1qyl: same number from different strand in same helice : remove it into recycle
+1rys: ATP is numbered same as adjacent base: change id of ATP from 1814 to 1815
+241d: same number from different strand in same helice : remove it into recycle
+
+Problematic stem structure
+
+182d_0_6: terminal base pairs lack O5' atom: delete the terminal base pairs: 182d_0_4
+4m3v_0_10: terminal base pairs lack O5' atom: delete the terminal base pairs: 4m3v_0_8
+3add_0_9: residue index is incorrect: remove it into recycle
+3add_5_9: residue index is incorrect: remove it into recycle
+3pw4_0_13: terminal base pair is a modified DNA: delete the terminal base pair: 3pw4_0_12
+3pw5_0_13: terminal base pair is a modified DNA: delete the terminal base pair: 3pw5_0_12
+2vqe_18_5: residue index is incorrect: remove it into recycle
+3rg5_0_7: residue index has icode: remove it into recycle
+1fjg_18_5: residue index has icode: remove it into recycle
+1h3e_3_3: residue index has icode: remove it into recycle
+1h3e_8_3: residue index has icode: remove it into recycle
+1n32_18_5: residue index has icode: remove it into recycle
+1ser_2_7: residue index has icode: remove it into recycle
+2uxc_18_5: residue index has icode: remove it into recycle
+2vqf_18_5: residue index has icode: remove it into recycle
+2uua_18_5: residue index has icode: remove it into recycle
+2uub_18_5: residue index has icode: remove it into recycle
+3t1y_18_5: residue index has icode: remove it into recycle
+4b3t_18_5: residue index has icode: remove it into recycle
+4b3r_18_5: residue index has icode: remove it into recycle
+4b3m_18_5: residue index has icode: remove it into recycle
+2zzm_3_3: residue index has icode: remove it into recycle
+3adb_3_7: residue index has icode: remove it into recycle
+3adb_8_7: residue index has icode: remove it into recycle
+3adc_3_7: residue index has icode: remove it into recycle
+3adc_8_7: residue index has icode: remove it into recycle
+3add_3_7: residue index has icode: remove it into recycle
+3add_8_7: residue index has icode: remove it into recycle
+3zgz_3_4: residue index has icode: remove it into recycle
+3zjt_2_4: residue index has icode: remove it into recycle
+3zju_3_4: residue index has icode: remove it into recycle
+3zjv_3_4: residue index has icode: remove it into recycle
+4aq7_3_4: residue index has icode: remove it into recycle
+4arc_3_4: residue index has icode: remove it into recycle
+4as1_3_4: residue index has icode: remove it into recycle
+4ari_4_4: residue index has icode: remove it into recycle
+4cqn_3_4: residue index has icode: remove it into recycle
+3adb_0_9: residue index has icode: remove it into recycle
+3adb_5_9: residue index has icode: remove it into recycle
+3adc_0_9: residue index has icode: remove it into recycle
+3adc_5_9: residue index has icode: remove it into recycle
+3hl2_0_5: residue index has icode: remove it into recycle
+4zdp_0_7: residue index has icode: remove it into recycle
+4zdo_0_7: residue index has icode: remove it into recycle
+5dm6_15_5: residue index has icode: remove it into recycle
+5dm6_69_8: residue index has icode: remove it into recycle
+5dm6_87_4: residue index has icode: remove it into recycle
+
+Problematic bulge structure
+247d_0_1: same residue id and chain id without icode: remove it into recycle
+247d_1_1: same residue id and chain id without icode: remove it into recycle
+248d_0_1: same residue id and chain id without icode: remove it into recycle
+248d_1_1: same residue id and chain id without icode: remove it into recycle
+
+Problematic iloop structure
+284d_0_2_2: wired structure: remove it into recycle
+284d_1_2_2: wired structure: remove it into recycle
+2oiu_0_1_1: residue index is incorrect: remove it into recycle
+1z7f_0_1_1: same chain id: change the second chain id
+1z7f_1_1_1: same chain id: change the second chain id
+255d_0_2_2: same chain id: change the second chain id
+283d_0_4_4: same chain id: change the second chain id
+2q1r_0_1_1: same chain id: change the second chain id
+2q1r_1_1_1: same chain id: change the second chain id
+413d_0_2_2: same chain id: change the second chain id
+4c40_0_6_3: same chain id: change the second chain id
+4c40_1_3_6: same chain id: change the second chain id
+4cs1_0_6_6: same chain id: change the second chain id
+4cs1_1_3_6: same chain id: change the second chain id
+4j39_0_1_1: same chain id: change the second chain id
+5c5w_0_1_1: same chain id: change the second chain id

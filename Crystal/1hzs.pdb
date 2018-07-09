@@ -1,0 +1,404 @@
+HEADER    PEPTIDE NUCLEIC ACID                    26-JAN-01   XXXX              
+TITLE     CRYSTAL STRUCTURE OF A PEPTIDE NUCLEIC ACID DUPLEX (BT-PNA) CONTAINING
+TITLE    2 A BICYCLIC ANALOGUE OF THYMINE                                       
+COMPND    PEPTIDE NUCLEIC ACID 5'-D(*GPN*OPN*APN*TPN*APN*CPN*LYS*NH2)-3'        
+KEYWDS    PEPTIDE NUCLEIC ACID, DOUBLE HELIX, NUCLEOBASE ANALOGUE, P-FORM       
+KEYWDS   2 HELIX, LEFT-HANDED, RIGHT-HANDED                                     
+EXPDTA    X-RAY DIFFRACTION                                                     
+AUTHOR    A.B.ELDRUP, B.B.NIELSEN, G.HAAIMA, H.RASMUSSEN, J.S.KASTRUP,          
+AUTHOR   2 C.CHRISTENSEN, P.E.NIELSEN                                           
+JRNL        AUTH   A.B.ELDRUP, B.B.NIELSEN, G.HAAIMA, H.RASMUSSEN, J.S.KASTRUP, 
+JRNL        AUTH 2 C.CHRISTENSEN, P.E.NIELSEN                                   
+JRNL        TITL   1,8-NAPHTHYRIDIN-2(1H)-ONES. NOVEL BICYCLIC AND TRICYCLIC    
+JRNL        TITL 2 ANALOGUES OF THYMINE IN PEPTIDE NUCLEIC ACIDS (PNAS)         
+JRNL        REF    EUR.J.ORG.CHEM.               V.   9  1781 2001              
+JRNL        REFN                GE ISSN 1434-193X                               
+REMARK   1                                                                      
+REMARK   1 REFERENCE 1                                                          
+REMARK   1  AUTH   H.RASMUSSEN, J.S.KASTRUP, J.N.NIELSEN, J.M.NIELSEN,          
+REMARK   1  AUTH 2 P.E.NIELSEN                                                  
+REMARK   1  TITL   CRYSTAL STRUCTURE OF A PEPTIDE NUCLEIC ACID (PNA) DUPLEX AT  
+REMARK   1  TITL 2 1.7 A RESOLUTION                                             
+REMARK   1  REF    NAT.STRUCT.BIOL.              V.   4    98 1997              
+REMARK   1  REFN   ASTM NSBIEW  US ISSN 1072-8368                               
+REMARK   1 REFERENCE 2                                                          
+REMARK   1  AUTH   G.HAIMA, H.RASMUSSEN, G.SCHMIDT, D.K.JENSEN, J.S.KASTRUP,    
+REMARK   1  AUTH 2 P.W.STAFSHEDE, B.NORDEN, O.BUCHARDT, P.E.NIELSEN             
+REMARK   1  TITL   PEPTIDE NUCLEIC ACIDS (PNA) DERIVED FROM                     
+REMARK   1  TITL 2 N-(N-METHYLAMINOETHYL)GLYCINE. SYNTHESIS, HYBRIDIZATION AND  
+REMARK   1  TITL 3 STRUCTURAL PROPERTIES                                        
+REMARK   1  REF    NEW J.CHEM.                   V.  23   833 1999              
+REMARK   1  REFN                FR ISSN 1144-0546                               
+JRNL        DOI    10.1039/A902091H                                             
+SEQRES   1 A    8  GPN OPN APN TPN APN CPN LYS NH2                              
+SEQRES   1 B    8  GPN OPN APN TPN APN CPN LYS NH2                              
+SEQRES   1 C    8  GPN OPN APN TPN APN CPN LYS NH2                              
+SEQRES   1 D    8  GPN OPN APN TPN APN CPN LYS NH2                              
+HETNAM     GPN 2-AMINOETHYLGLYCINE-CARBONYLMETHYLENE-GUANINE                    
+HETNAM     OPN {(2-AMINO-ETHYL)-[2-(2-OXO-1,2-DIHYDRO-[1,                       
+HETNAM   2 OPN  8]NAPHTHYRIDIN-3-YL)-ACETYL]-AMINO}-ACETIC ACID                 
+HETNAM     APN 2-AMINOETHYLGLYCINE-CARBONYLMETHYLENE-ADENINE                    
+HETNAM     TPN 2-AMINOETHYLGLYCINE-CARBONYLMETHYLENE-THYMINE                    
+HETNAM     CPN 2-AMINOETHYLGLYCINE-CARBONYLMETHYLENE-CYTOSINE                   
+HETNAM     NH2 AMINO GROUP                                                      
+FORMUL   1  GPN    4(C11 H16 N7 O4 1+)                                          
+FORMUL   1  OPN    4(C14 H17 N4 O4 1+)                                          
+FORMUL   1  APN    8(C11 H16 N7 O3 1+)                                          
+FORMUL   1  TPN    4(C11 H17 N4 O5 1+)                                          
+FORMUL   1  CPN    4(C10 H16 N5 O4 1+)                                          
+FORMUL   1  NH2    4(H2 N)                                                      
+FORMUL   5  HOH   *110(H2 O)                                                    
+LINK         C'  GPN A   1                 N1' OPN A   2     1555   1555  1.34  
+LINK         C'  OPN A   2                 N1' APN A   3     1555   1555  1.34  
+LINK         C'  APN A   3                 N1' TPN A   4     1555   1555  1.34  
+LINK         C'  TPN A   4                 N1' APN A   5     1555   1555  1.33  
+LINK         C'  APN A   5                 N1' CPN A   6     1555   1555  1.33  
+LINK         C'  CPN A   6                 N   LYS A   7     1555   1555  1.34  
+LINK         C   LYS A   7                 N   NH2 A   8     1555   1555  1.34  
+LINK         C'  GPN B   9                 N1' OPN B  10     1555   1555  1.34  
+LINK         C'  OPN B  10                 N1' APN B  11     1555   1555  1.34  
+LINK         C'  APN B  11                 N1' TPN B  12     1555   1555  1.34  
+LINK         C'  TPN B  12                 N1' APN B  13     1555   1555  1.34  
+LINK         C'  APN B  13                 N1' CPN B  14     1555   1555  1.33  
+LINK         C'  CPN B  14                 N   LYS B  15     1555   1555  1.32  
+LINK         C   LYS B  15                 N   NH2 B  16     1555   1555  1.34  
+LINK         C'  GPN C  17                 N1' OPN C  18     1555   1555  1.35  
+LINK         C'  OPN C  18                 N1' APN C  19     1555   1555  1.33  
+LINK         C'  APN C  19                 N1' TPN C  20     1555   1555  1.33  
+LINK         C'  TPN C  20                 N1' APN C  21     1555   1555  1.34  
+LINK         C'  APN C  21                 N1' CPN C  22     1555   1555  1.33  
+LINK         C'  CPN C  22                 N   LYS C  23     1555   1555  1.32  
+LINK         C   LYS C  23                 N   NH2 C  24     1555   1555  1.32  
+LINK         C'  GPN D  25                 N1' OPN D  26     1555   1555  1.34  
+LINK         C'  OPN D  26                 N1' APN D  27     1555   1555  1.34  
+LINK         C'  APN D  27                 N1' TPN D  28     1555   1555  1.34  
+LINK         C'  TPN D  28                 N1' APN D  29     1555   1555  1.32  
+LINK         C'  APN D  29                 N1' CPN D  30     1555   1555  1.36  
+LINK         C'  CPN D  30                 N   LYS D  31     1555   1555  1.35  
+LINK         C   LYS D  31                 N   NH2 D  32     1555   1555  1.33  
+SITE     1 AC1  1 LYS A   7                                                     
+SITE     1 AC2  1 LYS B  15                                                     
+SITE     1 AC3  1 LYS C  23                                                     
+SITE     1 AC4  2 CPN D  30  LYS D  31                                          
+CRYST1   30.340   45.000   49.280  90.00  90.00  90.00 P 21 21 2    16          
+ORIGX1      1.000000  0.000000  0.000000        0.00000                         
+ORIGX2      0.000000  1.000000  0.000000        0.00000                         
+ORIGX3      0.000000  0.000000  1.000000        0.00000                         
+SCALE1      0.032960  0.000000  0.000000        0.00000                         
+SCALE2      0.000000  0.022222  0.000000        0.00000                         
+SCALE3      0.000000  0.000000  0.020292        0.00000                         
+MODEL        1                                                                  
+HETATM    1  C8' GPN A   1      -1.999  13.361  -4.065  1.00 19.33           C  
+HETATM    2  C7' GPN A   1      -3.198  13.099  -3.184  1.00 22.01           C  
+HETATM    3  O7' GPN A   1      -3.106  13.214  -1.945  1.00 22.73           O  
+HETATM    4  C5' GPN A   1      -5.568  12.509  -2.924  1.00 24.09           C  
+HETATM    5  C'  GPN A   1      -6.020  11.060  -2.798  1.00 23.57           C  
+HETATM    6  O1' GPN A   1      -7.158  10.847  -2.383  1.00 26.62           O  
+HETATM    7  N4' GPN A   1      -4.353  12.731  -3.758  1.00 25.07           N  
+HETATM    8  C3' GPN A   1      -4.465  12.527  -5.187  1.00 28.09           C  
+HETATM    9  C2' GPN A   1      -5.573  13.360  -5.855  1.00 29.93           C  
+HETATM   10  N1' GPN A   1      -5.479  14.762  -5.498  1.00 29.03           N  
+HETATM   11  N9  GPN A   1      -0.818  13.566  -3.216  1.00 15.91           N  
+HETATM   12  C8  GPN A   1      -0.256  14.729  -2.756  1.00 14.91           C  
+HETATM   13  N7  GPN A   1       0.786  14.540  -2.011  1.00 15.94           N  
+HETATM   14  C5  GPN A   1       0.930  13.153  -1.965  1.00 13.46           C  
+HETATM   15  C6  GPN A   1       1.904  12.356  -1.300  1.00 10.45           C  
+HETATM   16  O6  GPN A   1       2.840  12.748  -0.610  1.00 10.57           O  
+HETATM   17  N1  GPN A   1       1.699  10.999  -1.517  1.00  8.26           N  
+HETATM   18  C2  GPN A   1       0.676  10.472  -2.274  1.00  7.88           C  
+HETATM   19  N2  GPN A   1       0.600   9.138  -2.370  1.00  9.25           N  
+HETATM   20  N3  GPN A   1      -0.237  11.216  -2.903  1.00 10.96           N  
+HETATM   21  C4  GPN A   1      -0.045  12.547  -2.705  1.00 12.51           C  
+HETATM   22  N1' OPN A   2      -5.194  10.054  -3.114  1.00 24.12           N  
+HETATM   23  C2' OPN A   2      -5.666   8.672  -3.026  1.00 22.63           C  
+HETATM   24  C3' OPN A   2      -4.940   7.819  -1.978  1.00 20.69           C  
+HETATM   25  N4' OPN A   2      -5.055   8.444  -0.652  1.00 17.72           N  
+HETATM   26  C5' OPN A   2      -6.328   8.227   0.014  1.00 16.70           C  
+HETATM   27  C'  OPN A   2      -6.395   6.928   0.812  1.00 13.67           C  
+HETATM   28  O1' OPN A   2      -7.377   6.751   1.525  1.00 12.23           O  
+HETATM   29  C7' OPN A   2      -4.054   9.083  -0.054  1.00 18.28           C  
+HETATM   30  O7' OPN A   2      -4.191   9.551   1.075  1.00 18.69           O  
+HETATM   31  C8' OPN A   2      -2.727   9.168  -0.788  1.00 16.23           C  
+HETATM   32  C1  OPN A   2      -1.651   9.750   0.085  1.00 15.48           C  
+HETATM   33  C6  OPN A   2      -1.604  11.077   0.196  1.00 14.63           C  
+HETATM   34  C2  OPN A   2      -0.702   8.892   0.784  1.00 15.42           C  
+HETATM   35  O2  OPN A   2      -0.675   7.656   0.745  1.00 15.68           O  
+HETATM   36  N3  OPN A   2       0.254   9.527   1.551  1.00 12.53           N  
+HETATM   37  C4  OPN A   2       0.346  10.881   1.699  1.00 13.53           C  
+HETATM   38  C5  OPN A   2      -0.569  11.680   1.031  1.00 13.57           C  
+HETATM   39  C7  OPN A   2      -0.464  13.050   1.184  1.00 14.39           C  
+HETATM   40  C8  OPN A   2       0.489  13.688   1.952  1.00 15.25           C  
+HETATM   41  C9  OPN A   2       1.391  12.825   2.605  1.00 15.60           C  
+HETATM   42  N10 OPN A   2       1.299  11.475   2.458  1.00 12.45           N  
+HETATM   43  C8' APN A   3      -2.928   6.847   3.073  1.00  5.81           C  
+HETATM   44  C7' APN A   3      -3.889   6.140   4.025  1.00  8.84           C  
+HETATM   45  O7' APN A   3      -4.091   6.559   5.168  1.00 10.84           O  
+HETATM   46  C5' APN A   3      -5.581   4.387   4.421  1.00  9.50           C  
+HETATM   47  C'  APN A   3      -5.154   3.151   5.217  1.00  8.73           C  
+HETATM   48  O1' APN A   3      -5.989   2.571   5.911  1.00  9.87           O  
+HETATM   49  N4' APN A   3      -4.535   5.048   3.616  1.00  9.40           N  
+HETATM   50  C3' APN A   3      -4.283   4.412   2.324  1.00 11.87           C  
+HETATM   51  C2' APN A   3      -5.476   4.726   1.397  1.00 12.77           C  
+HETATM   52  N1' APN A   3      -5.390   6.038   0.761  1.00 13.14           N  
+HETATM   53  N9  APN A   3      -2.164   7.908   3.743  1.00  9.36           N  
+HETATM   54  C8  APN A   3      -2.348   9.277   3.735  1.00  7.32           C  
+HETATM   55  N7  APN A   3      -1.457   9.911   4.450  1.00  9.45           N  
+HETATM   56  C5  APN A   3      -0.639   8.900   4.958  1.00  8.05           C  
+HETATM   57  C6  APN A   3       0.478   8.924   5.798  1.00  8.16           C  
+HETATM   58  N6  APN A   3       0.982  10.068   6.280  1.00  6.71           N  
+HETATM   59  N1  APN A   3       1.032   7.716   6.099  1.00  7.82           N  
+HETATM   60  C2  APN A   3       0.509   6.584   5.613  1.00  5.85           C  
+HETATM   61  N3  APN A   3      -0.535   6.446   4.818  1.00  4.92           N  
+HETATM   62  C4  APN A   3      -1.068   7.667   4.535  1.00  7.56           C  
+HETATM   63  C8' TPN A   4      -1.669   4.572   7.660  1.00  5.12           C  
+HETATM   64  C7' TPN A   4      -2.673   3.800   8.458  1.00  7.50           C  
+HETATM   65  O7' TPN A   4      -3.193   4.342   9.437  1.00 10.13           O  
+HETATM   66  C5' TPN A   4      -3.891   1.739   8.903  1.00 11.28           C  
+HETATM   67  C'  TPN A   4      -3.115   1.207  10.103  1.00 14.15           C  
+HETATM   68  O1' TPN A   4      -1.898   1.017  10.014  1.00 16.41           O  
+HETATM   69  N4' TPN A   4      -2.976   2.538   8.092  1.00 10.36           N  
+HETATM   70  C3' TPN A   4      -2.351   1.828   6.956  1.00  6.63           C  
+HETATM   71  C2' TPN A   4      -3.405   1.563   5.864  1.00  6.75           C  
+HETATM   72  N1' TPN A   4      -3.878   2.756   5.176  1.00  6.90           N  
+HETATM   73  N1  TPN A   4      -1.423   5.947   8.156  1.00  4.35           N  
+HETATM   74  C6  TPN A   4      -2.096   7.047   7.726  1.00  2.00           C  
+HETATM   75  C2  TPN A   4      -0.407   6.079   9.100  1.00  3.00           C  
+HETATM   76  O2  TPN A   4       0.237   5.140   9.549  1.00  4.18           O  
+HETATM   77  N3  TPN A   4      -0.109   7.342   9.551  1.00  4.65           N  
+HETATM   78  C4  TPN A   4      -0.760   8.485   9.154  1.00  4.94           C  
+HETATM   79  O4  TPN A   4      -0.424   9.565   9.609  1.00  7.20           O  
+HETATM   80  C5  TPN A   4      -1.817   8.280   8.182  1.00  4.00           C  
+HETATM   81  C5M TPN A   4      -2.644   9.482   7.641  1.00  2.00           C  
+HETATM   82  C8' APN A   5      -1.676   4.054  12.336  1.00  8.29           C  
+HETATM   83  C7' APN A   5      -2.335   3.541  13.606  1.00 12.67           C  
+HETATM   84  O7' APN A   5      -2.846   4.329  14.406  1.00 13.13           O  
+HETATM   85  C5' APN A   5      -3.083   1.654  14.972  1.00 18.91           C  
+HETATM   86  C'  APN A   5      -2.385   1.694  16.319  1.00 19.61           C  
+HETATM   87  O1' APN A   5      -3.125   1.584  17.303  1.00 23.59           O  
+HETATM   88  N4' APN A   5      -2.376   2.227  13.845  1.00 16.35           N  
+HETATM   89  C3' APN A   5      -1.810   1.223  12.959  1.00 19.06           C  
+HETATM   90  C2' APN A   5      -2.999   0.406  12.369  1.00 19.24           C  
+HETATM   91  N1' APN A   5      -3.744   0.994  11.252  1.00 16.62           N  
+HETATM   92  N9  APN A   5      -1.629   5.531  12.383  1.00  6.33           N  
+HETATM   93  C8  APN A   5      -2.443   6.431  11.780  1.00  4.86           C  
+HETATM   94  N7  APN A   5      -2.117   7.656  12.043  1.00  4.69           N  
+HETATM   95  C5  APN A   5      -1.020   7.559  12.870  1.00  4.45           C  
+HETATM   96  C6  APN A   5      -0.223   8.519  13.500  1.00  3.84           C  
+HETATM   97  N6  APN A   5      -0.419   9.830  13.351  1.00  2.44           N  
+HETATM   98  N1  APN A   5       0.779   8.072  14.273  1.00  3.97           N  
+HETATM   99  C2  APN A   5       0.981   6.760  14.413  1.00  5.37           C  
+HETATM  100  N3  APN A   5       0.290   5.762  13.876  1.00  5.83           N  
+HETATM  101  C4  APN A   5      -0.712   6.255  13.098  1.00  4.96           C  
+HETATM  102  C8' CPN A   6      -0.856   5.469  17.126  1.00 14.60           C  
+HETATM  103  C7' CPN A   6      -1.629   5.038  18.376  1.00 17.80           C  
+HETATM  104  O7' CPN A   6      -2.535   5.729  18.855  1.00 17.04           O  
+HETATM  105  C5' CPN A   6      -1.954   3.324  20.099  1.00 24.28           C  
+HETATM  106  C'  CPN A   6      -1.264   3.711  21.406  1.00 29.82           C  
+HETATM  107  O1' CPN A   6      -0.600   4.745  21.528  1.00 28.13           O  
+HETATM  108  N4' CPN A   6      -1.279   3.874  18.929  1.00 20.29           N  
+HETATM  109  C3' CPN A   6      -0.118   3.100  18.470  1.00 19.75           C  
+HETATM  110  C2' CPN A   6      -0.503   1.772  17.812  1.00 19.58           C  
+HETATM  111  N1' CPN A   6      -1.067   1.837  16.467  1.00 17.80           N  
+HETATM  112  N1  CPN A   6      -1.160   6.882  16.919  1.00 12.07           N  
+HETATM  113  C2  CPN A   6      -0.351   7.776  17.621  1.00 12.32           C  
+HETATM  114  N3  CPN A   6      -0.583   9.100  17.491  1.00 12.18           N  
+HETATM  115  C4  CPN A   6      -1.574   9.538  16.706  1.00 13.13           C  
+HETATM  116  C5  CPN A   6      -2.415   8.641  15.978  1.00 13.21           C  
+HETATM  117  C6  CPN A   6      -2.163   7.327  16.119  1.00 12.04           C  
+HETATM  118  O2  CPN A   6       0.553   7.371  18.349  1.00 14.32           O  
+HETATM  119  N4  CPN A   6      -1.783  10.838  16.572  1.00 15.00           N  
+ATOM    120  N   LYS A   7      -1.444   2.819  22.389  1.00 34.99           N  
+ATOM    121  CA  LYS A   7      -0.916   2.882  23.762  1.00 40.20           C  
+ATOM    122  C   LYS A   7       0.613   2.820  23.799  1.00 43.16           C  
+ATOM    123  O   LYS A   7       1.254   3.042  22.779  1.00 46.93           O  
+ATOM    124  CB  LYS A   7      -1.542   1.705  24.526  1.00 40.48           C  
+ATOM    125  CG  LYS A   7      -1.523   1.561  26.053  1.00 43.33           C  
+ATOM    126  CD  LYS A   7      -2.815   0.952  26.655  1.00 48.10           C  
+ATOM    127  CE  LYS A   7      -2.977  -0.581  26.554  1.00 51.32           C  
+ATOM    128  NZ  LYS A   7      -4.291  -0.980  26.053  1.00 54.85           N  
+HETATM  129  N   NH2 A   8       1.295   2.489  24.898  1.00 45.04           N  
+TER     130      NH2 A   8                                                      
+HETATM  131  C8' GPN B   9       4.887  13.508  21.339  1.00  8.68           C  
+HETATM  132  C7' GPN B   9       6.179  13.245  20.535  1.00 13.23           C  
+HETATM  133  O7' GPN B   9       6.119  13.135  19.300  1.00 14.92           O  
+HETATM  134  C5' GPN B   9       8.592  12.889  20.402  1.00 12.02           C  
+HETATM  135  C'  GPN B   9       8.898  11.433  20.083  1.00 10.65           C  
+HETATM  136  O1' GPN B   9       9.789  11.177  19.265  1.00 11.56           O  
+HETATM  137  N4' GPN B   9       7.372  13.147  21.156  1.00 13.43           N  
+HETATM  138  C3' GPN B   9       7.579  13.349  22.604  1.00 15.31           C  
+HETATM  139  C2' GPN B   9       8.464  14.612  22.840  1.00 15.58           C  
+HETATM  140  N1' GPN B   9       8.144  15.724  21.943  1.00 20.12           N  
+HETATM  141  N9  GPN B   9       3.712  13.615  20.469  1.00  6.93           N  
+HETATM  142  C8  GPN B   9       3.139  14.750  19.961  1.00  6.39           C  
+HETATM  143  N7  GPN B   9       2.109  14.519  19.203  1.00  6.40           N  
+HETATM  144  C5  GPN B   9       1.974  13.123  19.204  1.00  6.29           C  
+HETATM  145  C6  GPN B   9       1.009  12.293  18.549  1.00  6.28           C  
+HETATM  146  O6  GPN B   9       0.081  12.643  17.815  1.00  6.74           O  
+HETATM  147  N1  GPN B   9       1.241  10.947  18.804  1.00  4.84           N  
+HETATM  148  C2  GPN B   9       2.259  10.455  19.597  1.00  2.56           C  
+HETATM  149  N2  GPN B   9       2.308   9.125  19.725  1.00  6.78           N  
+HETATM  150  N3  GPN B   9       3.153  11.230  20.216  1.00  5.65           N  
+HETATM  151  C4  GPN B   9       2.951  12.552  19.973  1.00  5.26           C  
+HETATM  152  N1' OPN B  10       8.178  10.488  20.703  1.00  8.27           N  
+HETATM  153  C2' OPN B  10       8.463   9.065  20.559  1.00  9.60           C  
+HETATM  154  C3' OPN B  10       7.564   8.267  19.592  1.00  8.36           C  
+HETATM  155  N4' OPN B  10       7.787   8.695  18.195  1.00  7.68           N  
+HETATM  156  C5' OPN B  10       9.107   8.411  17.665  1.00  9.18           C  
+HETATM  157  C'  OPN B  10       9.156   7.283  16.634  1.00 11.17           C  
+HETATM  158  O1' OPN B  10       9.787   7.478  15.596  1.00 12.47           O  
+HETATM  159  C7' OPN B  10       6.861   9.292  17.430  1.00  7.49           C  
+HETATM  160  O7' OPN B  10       7.075   9.569  16.245  1.00  8.50           O  
+HETATM  161  C8' OPN B  10       5.528   9.581  18.069  1.00  6.30           C  
+HETATM  162  C1  OPN B  10       4.483  10.131  17.152  1.00  5.52           C  
+HETATM  163  C6  OPN B  10       4.325  11.456  17.064  1.00  7.45           C  
+HETATM  164  C2  OPN B  10       3.649   9.217  16.403  1.00  6.07           C  
+HETATM  165  O2  OPN B  10       3.739   7.994  16.427  1.00  5.50           O  
+HETATM  166  N3  OPN B  10       2.684   9.766  15.597  1.00  8.20           N  
+HETATM  167  C4  OPN B  10       2.474  11.098  15.453  1.00  7.64           C  
+HETATM  168  C5  OPN B  10       3.282  11.974  16.174  1.00  8.91           C  
+HETATM  169  C7  OPN B  10       3.049  13.321  16.025  1.00 11.41           C  
+HETATM  170  C8  OPN B  10       2.069  13.863  15.213  1.00 12.77           C  
+HETATM  171  C9  OPN B  10       1.284  12.927  14.518  1.00 12.62           C  
+HETATM  172  N10 OPN B  10       1.505  11.589  14.656  1.00 10.16           N  
+HETATM  173  C8' APN B  11       6.082   7.078  14.305  1.00  8.90           C  
+HETATM  174  C7' APN B  11       7.052   6.395  13.337  1.00 10.42           C  
+HETATM  175  O7' APN B  11       7.155   6.799  12.171  1.00 14.79           O  
+HETATM  176  C5' APN B  11       8.796   4.758  12.857  1.00 10.65           C  
+HETATM  177  C'  APN B  11       8.348   3.516  12.097  1.00 13.21           C  
+HETATM  178  O1' APN B  11       9.201   2.846  11.520  1.00 19.25           O  
+HETATM  179  N4' APN B  11       7.770   5.339  13.723  1.00 10.56           N  
+HETATM  180  C3' APN B  11       7.595   4.683  15.021  1.00 10.84           C  
+HETATM  181  C2' APN B  11       8.774   4.992  15.930  1.00  7.86           C  
+HETATM  182  N1' APN B  11       8.513   6.122  16.816  1.00 12.79           N  
+HETATM  183  N9  APN B  11       5.299   8.105  13.588  1.00  8.33           N  
+HETATM  184  C8  APN B  11       5.481   9.467  13.497  1.00  9.11           C  
+HETATM  185  N7  APN B  11       4.600  10.066  12.749  1.00  8.09           N  
+HETATM  186  C5  APN B  11       3.783   9.024  12.316  1.00  7.54           C  
+HETATM  187  C6  APN B  11       2.664   8.981  11.477  1.00  6.80           C  
+HETATM  188  N6  APN B  11       2.149  10.077  10.921  1.00  5.58           N  
+HETATM  189  N1  APN B  11       2.122   7.770  11.255  1.00  4.69           N  
+HETATM  190  C2  APN B  11       2.639   6.694  11.816  1.00  4.53           C  
+HETATM  191  N3  APN B  11       3.680   6.607  12.612  1.00  4.08           N  
+HETATM  192  C4  APN B  11       4.210   7.828  12.821  1.00  6.50           C  
+HETATM  193  C8' TPN B  12       5.024   4.900   9.777  1.00  7.45           C  
+HETATM  194  C7' TPN B  12       6.005   4.181   8.892  1.00  9.55           C  
+HETATM  195  O7' TPN B  12       6.523   4.758   7.927  1.00 10.24           O  
+HETATM  196  C5' TPN B  12       7.094   2.089   8.300  1.00  8.05           C  
+HETATM  197  C'  TPN B  12       6.281   1.501   7.137  1.00  7.87           C  
+HETATM  198  O1' TPN B  12       5.080   1.272   7.265  1.00  7.79           O  
+HETATM  199  N4' TPN B  12       6.237   2.891   9.166  1.00 10.48           N  
+HETATM  200  C3' TPN B  12       5.580   2.156  10.274  1.00 11.49           C  
+HETATM  201  C2' TPN B  12       6.595   1.946  11.402  1.00 13.60           C  
+HETATM  202  N1' TPN B  12       7.049   3.175  12.060  1.00 12.25           N  
+HETATM  203  N1  TPN B  12       4.684   6.219   9.200  1.00  7.84           N  
+HETATM  204  C6  TPN B  12       5.355   7.339   9.531  1.00  3.38           C  
+HETATM  205  C2  TPN B  12       3.604   6.273   8.296  1.00  7.22           C  
+HETATM  206  O2  TPN B  12       2.943   5.295   7.929  1.00  6.82           O  
+HETATM  207  N3  TPN B  12       3.300   7.530   7.797  1.00  7.91           N  
+HETATM  208  C4  TPN B  12       3.956   8.708   8.100  1.00  7.03           C  
+HETATM  209  O4  TPN B  12       3.580   9.764   7.602  1.00  9.11           O  
+HETATM  210  C5  TPN B  12       5.044   8.546   9.026  1.00  5.70           C  
+HETATM  211  C5M TPN B  12       5.879   9.760   9.455  1.00  4.40           C  
+HETATM  212  C8' APN B  13       5.068   4.249   4.934  1.00  6.56           C  
+HETATM  213  C7' APN B  13       5.809   3.785   3.669  1.00  9.47           C  
+HETATM  214  O7' APN B  13       6.366   4.638   2.975  1.00  6.56           O  
+HETATM  215  C5' APN B  13       6.734   2.023   2.191  1.00 11.08           C  
+HETATM  216  C'  APN B  13       6.123   1.959   0.795  1.00 13.78           C  
+HETATM  217  O1' APN B  13       6.856   1.953  -0.208  1.00 14.24           O  
+HETATM  218  N4' APN B  13       5.883   2.488   3.296  1.00 10.23           N  
+HETATM  219  C3' APN B  13       5.191   1.410   4.002  1.00  9.17           C  
+HETATM  220  C2' APN B  13       6.233   0.641   4.824  1.00  7.09           C  
+HETATM  221  N1' APN B  13       6.885   1.284   5.963  1.00  7.89           N  
+HETATM  222  N9  APN B  13       4.907   5.711   4.876  1.00  7.87           N  
+HETATM  223  C8  APN B  13       5.641   6.700   5.462  1.00  7.21           C  
+HETATM  224  N7  APN B  13       5.218   7.899   5.171  1.00  5.20           N  
+HETATM  225  C5  APN B  13       4.135   7.688   4.340  1.00  4.32           C  
+HETATM  226  C6  APN B  13       3.254   8.563   3.691  1.00  3.69           C  
+HETATM  227  N6  APN B  13       3.320   9.887   3.787  1.00  7.52           N  
+HETATM  228  N1  APN B  13       2.298   8.025   2.948  1.00  4.18           N  
+HETATM  229  C2  APN B  13       2.218   6.701   2.855  1.00  5.51           C  
+HETATM  230  N3  APN B  13       2.980   5.768   3.401  1.00  5.53           N  
+HETATM  231  C4  APN B  13       3.936   6.353   4.149  1.00  5.76           C  
+HETATM  232  C8' CPN B  14       4.030   5.545   0.144  1.00 12.94           C  
+HETATM  233  C7' CPN B  14       4.704   5.058  -1.104  1.00 15.36           C  
+HETATM  234  O7' CPN B  14       5.558   5.769  -1.641  1.00 17.04           O  
+HETATM  235  C5' CPN B  14       4.959   3.337  -2.815  1.00 20.30           C  
+HETATM  236  C'  CPN B  14       4.788   4.179  -4.076  1.00 25.33           C  
+HETATM  237  O1' CPN B  14       3.762   4.753  -4.412  1.00 23.95           O  
+HETATM  238  N4' CPN B  14       4.355   3.870  -1.620  1.00 16.98           N  
+HETATM  239  C3' CPN B  14       3.347   2.940  -1.077  1.00 15.52           C  
+HETATM  240  C2' CPN B  14       4.129   1.714  -0.593  1.00 13.16           C  
+HETATM  241  N1' CPN B  14       4.794   1.908   0.695  1.00 12.51           N  
+HETATM  242  N1  CPN B  14       4.297   6.988   0.292  1.00 12.70           N  
+HETATM  243  C2  CPN B  14       3.407   7.865  -0.364  1.00 10.93           C  
+HETATM  244  N3  CPN B  14       3.607   9.209  -0.237  1.00 10.50           N  
+HETATM  245  C4  CPN B  14       4.635   9.684   0.494  1.00 11.67           C  
+HETATM  246  C5  CPN B  14       5.551   8.797   1.162  1.00 12.91           C  
+HETATM  247  C6  CPN B  14       5.334   7.468   1.032  1.00 12.48           C  
+HETATM  248  O2  CPN B  14       2.481   7.445  -1.056  1.00 10.18           O  
+HETATM  249  N4  CPN B  14       4.818  10.994   0.625  1.00 10.53           N  
+ATOM    250  N   LYS B  15       5.879   3.993  -4.802  1.00 29.72           N  
+ATOM    251  CA  LYS B  15       6.443   4.507  -6.035  1.00 35.34           C  
+ATOM    252  C   LYS B  15       6.111   3.832  -7.374  1.00 37.91           C  
+ATOM    253  O   LYS B  15       4.974   3.424  -7.621  1.00 38.80           O  
+ATOM    254  CB  LYS B  15       7.971   4.565  -5.767  1.00 37.67           C  
+ATOM    255  CG  LYS B  15       8.577   4.040  -4.420  1.00 41.15           C  
+ATOM    256  CD  LYS B  15       8.988   2.533  -4.289  1.00 42.47           C  
+ATOM    257  CE  LYS B  15       8.066   1.356  -4.700  1.00 45.02           C  
+ATOM    258  NZ  LYS B  15       6.810   1.217  -3.978  1.00 44.95           N  
+HETATM  259  N   NH2 B  16       7.094   3.670  -8.265  1.00 41.08           N  
+TER     260      NH2 B  16                                                      
+HETATM  261  O   HOH A  35      -1.225   4.126   4.008  1.00 12.69           O  
+HETATM  262  O   HOH A  46      -2.549   6.121  -0.413  1.00 17.87           O  
+HETATM  263  O   HOH A  48      -4.417  12.263   1.884  1.00 33.83           O  
+HETATM  264  O   HOH A  49       0.614   2.971  14.802  1.00 25.75           O  
+HETATM  265  O   HOH A  55      -5.043   5.061  14.931  1.00 32.78           O  
+HETATM  266  O   HOH A  60      -1.087   7.237  -4.029  1.00 35.57           O  
+HETATM  267  O   HOH A  62       0.305   5.548   0.028  1.00 42.15           O  
+HETATM  268  O   HOH A  70       0.415  13.062   6.421  1.00 40.12           O  
+HETATM  269  O   HOH A  72      -3.544  12.316  14.566  1.00 31.10           O  
+HETATM  270  O   HOH A  74      -0.967  12.293   9.472  1.00 35.62           O  
+HETATM  271  O   HOH A  76       1.632   2.922  10.456  1.00 35.39           O  
+HETATM  272  O   HOH A  77      -9.236   8.088   1.237  1.00 39.71           O  
+HETATM  273  O   HOH A  81       3.546  15.033   0.435  1.00 57.20           O  
+HETATM  274  O   HOH A  87      -3.054   5.907  23.075  1.00 22.94           O  
+HETATM  275  O   HOH A 100      -2.448  10.424  -4.421  1.00 18.84           O  
+HETATM  276  O   HOH A 101      -9.669  10.545   2.880  1.00 11.02           O  
+HETATM  277  O   HOH A 105      -0.231   3.039   1.259  1.00 42.80           O  
+HETATM  278  O   HOH A 119      -8.620   2.587   5.637  1.00 37.71           O  
+HETATM  279  O   HOH A 127      -4.911   2.986  22.116  1.00 32.02           O  
+HETATM  280  O   HOH A 129      -3.966  14.409   0.003  1.00 47.39           O  
+HETATM  281  O   HOH A 139      -0.040   5.374  25.815  1.00 30.38           O  
+HETATM  282  O   HOH B  34       4.372   4.070  13.326  1.00 10.81           O  
+HETATM  283  O   HOH B  37       5.372  10.420  21.677  1.00 15.67           O  
+HETATM  284  O   HOH B  38       2.798   3.268   2.743  1.00 12.97           O  
+HETATM  285  O   HOH B  47       4.102   7.256  20.925  1.00 25.57           O  
+HETATM  286  O   HOH B  50       3.101   5.525  17.625  1.00 29.63           O  
+HETATM  287  O   HOH B  51       7.965   6.691   7.795  1.00 42.32           O  
+HETATM  288  O   HOH B  57       8.648   9.398  11.869  1.00 22.31           O  
+HETATM  289  O   HOH B  58       7.243   9.901   5.808  1.00 26.34           O  
+HETATM  290  O   HOH B  65       2.478   2.453   7.457  1.00 40.22           O  
+HETATM  291  O   HOH B  68       4.874  12.608  12.667  1.00 30.06           O  
+HETATM  292  O   HOH B  71       5.896   5.755  18.408  1.00 18.26           O  
+HETATM  293  O   HOH B  79       5.684  13.141   2.428  1.00 35.18           O  
+HETATM  294  O   HOH B  85       8.187   6.606   2.883  1.00 21.52           O  
+HETATM  295  O   HOH B  86       9.875   5.922   9.753  1.00 30.10           O  
+HETATM  296  O   HOH B  89       3.344  12.419   8.666  1.00 37.00           O  
+HETATM  297  O   HOH B  94       8.986   5.834   0.182  1.00 40.59           O  
+HETATM  298  O   HOH B  95       5.225  -1.213   1.749  1.00 25.08           O  
+HETATM  299  O   HOH B  98      11.016  12.637  17.438  1.00 14.25           O  
+HETATM  300  O   HOH B  99      -0.995  14.983  16.685  1.00 31.30           O  
+HETATM  301  O   HOH B 103       0.844   2.134   4.951  1.00 29.97           O  
+HETATM  302  O   HOH B 109       5.094   1.084  14.784  1.00 37.27           O  
+HETATM  303  O   HOH B 111       3.424   3.202  15.993  1.00 31.60           O  
+HETATM  304  O   HOH B 112       7.812  12.180  15.541  1.00 24.51           O  
+HETATM  305  O   HOH B 114       7.775  -1.941   2.619  1.00 28.43           O  
+HETATM  306  O   HOH B 120       4.553  -2.204  -1.277  1.00 28.90           O  
+HETATM  307  O   HOH B 121       9.135   2.356  -0.637  1.00 33.28           O  
+HETATM  308  O   HOH B 124       5.192  11.878   5.251  1.00 39.92           O  
+HETATM  309  O   HOH B 125       0.897  16.889  18.430  1.00 47.19           O  
+HETATM  310  O   HOH B 133       3.797   5.580  -8.535  1.00 25.71           O  
+HETATM  311  O   HOH B 137       0.857   5.231  -2.788  1.00 39.54           O  
+ENDMDL                                                                          
+MASTER       16    0    0    0    0    0    4    6  626    4    0    4          
+END                                                                             
